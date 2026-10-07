@@ -57,6 +57,8 @@ Convert, resize/compress, edit/combine, OCR, fill forms, signature:
 - **Timezone converter** — _TODO_
 - **Currency converter** — _TODO_
 
+- _**Engagement rate** — [FollowerKaufen.ch](https://followerkaufen.ch/tools/engagement-rate) — Free German calculator with manual likes/comments and a selectable denominator. Proprietary app; parent offers paid followers, likes and views._
+
 ---
 
 ## Criteria
